@@ -7,7 +7,7 @@ import java.util.logging.Handler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Main {
+public class main2 {
     public static void main(String[] args) {
         // 1. Дана json строка { {
         // "фамилия":"Иванов","оценка":"5","предмет":"Математика"},
